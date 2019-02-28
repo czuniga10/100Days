@@ -1,3 +1,5 @@
+Day23 - 1.5hrs
+
 JavaScript - Codewars Kata
 
 Description:
